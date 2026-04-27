@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="text_view_result_height">60dp</string>
+    <string name="historico_final">%1$s = %2$s \n</string>
+</resources>

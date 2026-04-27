@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FF7433</color>
+
+    <color name="calc_bg">#000000</color>
+    <color name="btn_dark_gray">#333333</color>
+    <color name="btn_light_gray">#A5A5A5</color>
+    <color name="btn_orange">#FF7433</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_black">#000000</color>
+    <color name="text_orange">#FF7433</color>
+</resources>
